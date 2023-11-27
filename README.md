@@ -11,5 +11,7 @@ Die AWS Cloud Resume Challenge ist ein spannendes Projekt, das von Forrest Braze
 -  GitHub Actions
 
 ## Ausführlicher Blogartikel: 
+[Hier klicken ](https://blog.johannesrose.com/aws-cloud-resume-challenge)
 
+## Architektur
 <img src="https://github.com/johannesrose/aws-cloud-resume-challenge/blob/main/cloud-resume-architecture.jpg"  >
