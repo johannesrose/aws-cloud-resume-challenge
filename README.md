@@ -1,8 +1,8 @@
 # AWS Cloud Resume Challenge
 
-Die AWS Cloud Resume Challenge ist ein spannendes Projekt, das von Forrest Brazeal ins Leben gerufen wurde, um Cloud-Enthusiasten und angehenden Cloud-Entwicklern eine praktische Möglichkeit zu bieten, ihre Fähigkeiten zu demonstrieren und zu verbessern. Diese Challenge fordert die Teilnehmer auf, ihre Fähigkeiten in der Amazon Web Services (AWS) Cloud-Entwicklung durch die Erstellung einer Cloud-optimierten Version ihres Lebenslaufs unter Beweis zu stellen.
+The AWS Cloud Resume Challenge is an exciting project created by Forrest Brazeal to provide cloud enthusiasts and aspiring cloud developers with a practical way to demonstrate and improve their skills. This challenge asks participants to demonstrate their Amazon Web Services (AWS) cloud development skills by creating a cloud-optimized version of their resume.
 
-## Welche AWS Services brauchen wir?
+## Which services we need
 -  S3
 -  AWS CloudFront
 -  Certificate Manager
@@ -10,5 +10,5 @@ Die AWS Cloud Resume Challenge ist ein spannendes Projekt, das von Forrest Braze
 -  Dynamo DB
 -  GitHub Actions
 
-## Architektur
+## Architecture
 <img src="https://github.com/johannesrose/aws-cloud-resume-challenge/blob/main/cloud-resume-architecture.jpg"  >
